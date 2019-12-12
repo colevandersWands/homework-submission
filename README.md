@@ -83,7 +83,7 @@ The weekly workflow for submission and feedback will look something like this:
 1. The last two steps will repeat until a coach or alumni moves your card into the "DONE" column.  _(Only coaches and alumni can move cards into the "DONE" column!)_
 
 
-The cards you make for tracking each week's homework should look something like this.  The cool bullet points `- [ ]` will turn into live check-boxes that generate nifty progress bars [like this](https://github.com/HackYourFutureBelgium/class-6/projects/1):
+The issues you make for tracking each week's homework should look something like this.  The cool bullet points `- [ ]` will turn into live check-boxes that generate nifty progress bars [like this](https://github.com/HackYourFutureBelgium/class-6/projects/1):
 
 ```
 Name of Project:
