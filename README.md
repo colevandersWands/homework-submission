@@ -7,7 +7,7 @@ How do we do homework submission and feedback?  Like this!
     * [Projects](#projects)
     * [Exercises](#exercises)
     * [Assessments](#assessments)
-    * [Suggested Study](#suggested-study)
+    * [Deeper Dives](#deeper-dives)
 * [Submission & Feedback Process](#submission-and-feedback-process)
 * [Helpful Links](#helpful-links)
 
@@ -51,11 +51,11 @@ Our assessments are what's called [formative assessments](https://www.scholastic
 
 So get a little extra sleep the Saturday before, come in relaxed and rested, we'll hand out the assignment and you'll turn it in before class starts. These assessments will help us to help you, but aren't the only thing that counts.
 
-### Suggested Study
+### Deeper Dives
 
-> These are optional, but worth your time
+> Not required, but the fun stuff never is ;)
 
-Each module will have a file called `suggested-study.md`.  In here are a list of tutorials, projects, and extra study materials for you to explore.  Some of the suggested studies will help you prepare for the next module, others will go deeper into concepts covered in the module, and yet others are just fun and cool.  We won't be checking up on these, they're just here for you.
+Each module will have a page called `Deeper Dives` in it's wiki.  In here are a list of tutorials, projects, and extra study materials for you to explore.  Some of the suggested studies will help you prepare for the next module, others will go deeper into concepts covered in the module, and yet others are just fun and cool.  We won't be checking up on these, they're just here for you.
 
 Enjoy!
 
