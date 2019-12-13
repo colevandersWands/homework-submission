@@ -9,6 +9,7 @@ How do we do homework submission and feedback?  Like this!
     * [Assessments](#assessments)
     * [Deeper Dives](#deeper-dives)
 * [Submission & Feedback Process](#submission-and-feedback-process)
+* [Missing Assignments Policy](#missing-assignments-policy)
 * [Helpful Links](#helpful-links)
 
 
@@ -107,6 +108,25 @@ Exercises
 
 ---
 
+## Missing Assignments Policy
+
+1. Missing  _3_  homework submissions is grounds for leaving Hack Your Future.  Should this happen we will have a 1-1 meeting with you to determine the best course of action.   (not turning on GitHub Pages counts as a missed submission!)
+1. Submitting  _2_  incomplete homework assignments is a sign that you need more support or accommodation from us.  Should this happen please get in touch with us to schedule a 1-1 meeting with so we can understand your situation and how we can best help you.
+1. Cheating  _1_  time is grounds for leaving Hack Your Future. if we find out you are doing this we will have a 1-1 meeting and it will probably be the end of your time with us.
+
+What does this all mean?  It means:
+* Submit your homework even if it isn’t complete.  We can’t help you if we don’t know what you’re struggling with!
+* Be accountable and thorough, ask for help often and submit your homework on time.  If you haven't completed the whole assignment you can still submit it correctly.
+* There is no penalty for not understanding, only for not trying.  Web development is very challenging, even your coaches spend most of their time learning and fixing mistakes!
+* Cheating is not tolerated.  There is a large difference between stealing and collaborating, even if the end result looks the same (ie. you both have the same code).
+  * __Collaboration__ is when you ask each other for help or for explanations, you voluntarily share snippets of code, and take the time to explain/understand what has been shared.
+  * __Cheating__ is when you copy someone’s code to complete the homeworks without taking to the time to understand it, and without them explaining why they wrote what they did.
+* If we see two or more homework assignments with the same solutions we will check in with everyone involved to see if this was collaborative work or cheating.
+
+[TOP](#homework-submission)
+
+---
+
 
 ## Helpful Links
 
@@ -114,6 +134,12 @@ Exercises
 * [issues in depth](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues)
 * [mastering GitHub project boards](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards)
 * [project boards in depth](https://help.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards)
+
+[TOP](#homework-submission)
+
+---
+
+## Contributors
 
 [TOP](#homework-submission)
 
