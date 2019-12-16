@@ -56,7 +56,7 @@ So get a little extra sleep the Saturday before, come in relaxed and rested, we'
 
 > Not required, but the fun stuff never is ;)
 
-Each module will have a page called `Deeper Dives` in it's wiki.  In here are a list of tutorials, projects, and extra study materials for you to explore.  Some of the deeper dives will help you prepare for the next module, others will go deeper into concepts covered in the module, and yet others are just fun and cool.  We won't be checking up on these, they're just here for you.
+Each module will have a page called `Deeper Dives` in it's wiki.  In here are a list of tutorials, projects, and extra study materials for you to explore.  Some of the deeper dives will help you prepare for the next module, others will go deeper into concepts covered in the module, and yet others are just fun and cool.  We won't be checking up on these, they're here for your enrichment :mortar_board:.
 
 Enjoy!
 
