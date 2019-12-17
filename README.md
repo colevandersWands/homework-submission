@@ -4,10 +4,10 @@ How do we do homework submission and feedback?  Like this!
 
 ### Index:
 * [Types of Assignments](#types-of-assignments)
-    * [Projects](#projects)
-    * [Exercises](#exercises)
-    * [Assessments](#assessments)
-    * [Deeper Dives](#deeper-dives)
+    1. [Projects](#projects)
+    1. [Exercises](#exercises)
+    1. [Assessments](#assessments)
+    1. [Deeper Dives](#deeper-dives)
 * [Submission & Feedback Process](#submission-and-feedback-process)
 * [Missing Assignments Policy](#missing-assignments-policy)
 * [Helpful Links](#helpful-links)
