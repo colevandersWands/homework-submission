@@ -42,6 +42,11 @@ Alongside each week's project there will be a set of exercises.  Unlike projects
 
 Sometimes there will be _a lot_ of exercises, and these exercises can be quite challenging.  You should start each set of exercises to be aware of the skills you're expected to apply in the projects, but you are not expected to complete every exercise the week they are assigned.  If you find you want to dive deeper into one topic, or that you've finished the project early and want to keep studying, go on and finish all the exercises!  Otherwise they'll always be there for you, you can go back and complete the exercises later in the course or after you leave HYF. This has been a successful strategy for many students before you.
 
+Exercises will come in 3 general types as well:
+1. __Theory__: Theory exercises will look deeply at the technologies you are using.  All of these exercises will be accompanied by an execution visualization for you to really understand what's happening behind your code. You might find these exercises a bit dry, or might love them!  Either way they're worth every minute you spend studying them.  If you don't take the time to master the theory exercises you will have a hard time debugging your code, applying the technologies correctly, writing & reading tests, or effectively using the developer tools.
+1. __Application__: These exercises are what you probably think of as standard coding exercises, the types of challenges you find on FreeCodeCamp and other web tutorials.  Application exercises will be bite-sized coding challenges that ask you apply the technologies you studied in Theory exercises to solve small challenges. 
+1. __Integration__: Integration exercises are effectively tiny projects.  In them you will practice integrating the various skills and technologies you've learned so far into realistic (but tiny) projects.  Imagine something like building 5 websites with only one button each.  It's enough to practice the process of building and completing something without getting lost in the size of your project.  
+
 ### Assessments
 
 > You are required to attend all assessments
