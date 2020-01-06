@@ -3,15 +3,77 @@
 How do we do homework submission and feedback?  Like this!
 
 ### Index:
+* [Submission Deadline](#submission-deadline)
+* [Submission & Feedback Process](#submission-and-feedback-process)
 * [Types of Assignments](#types-of-assignments)
     1. [Projects](#projects)
     1. [Exercises](#exercises)
     1. [Assessments](#assessments)
     1. [Deeper Dives](#deeper-dives)
-* [Submission & Feedback Process](#submission-and-feedback-process)
 * [Missing Assignments Policy](#missing-assignments-policy)
 * [Helpful Links](#helpful-links)
 
+---
+
+## Submission Deadline
+
+Your homework submissions are due by Friday to give your coaches time to review them before Sunday.  You are expected to complete each week's project.  It's ok if you just start the exercises, there are a lot of them and they can get quite tricky. They'll always be there for you to review later :)
+
+> Due on Friday
+
+What counts as a homework submission?
+
+1. You have created a new issue with an clear and helpful title.
+1. The issue has links to your weekly project, including a separate link to each branch. (the project must be completed!)
+1. You have linked to each of the assigned exercise repositories, even if they are not completed.
+1. All of the links must work! One dead link will count as a whole missing assignment.
+1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION", or "DONE" column.
+
+
+
+[TOP](#homework-submission)
+
+---
+
+## Submission and Feedback Process
+
+We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues) and  [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) to submit assignments and give feedback.  The three biggest benefits to this are that your homework workflow will be very similar to a professional collaboration workflow, you'll be able to use GitHub's powerful code review tools to receive & implement feedback, and everything will be centralized in on place: your class repository on GitHub!
+
+The weekly workflow for submission and feedback will look something like this:
+
+1. Create a new issue in your class repo for each week's homework, then add each issue to the "TO DO" column of this module's project board.
+1. Study away! You will keep your coaches and classmates up to date on your progress and your challenges by checking off the boxes in your issue and by moving your card on the project board.
+1. If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet) in your repository!
+1. When you think your homework is finished (the project is complete and you've started all of the exercises), move your card into the "READY FOR REVIEW" column.
+1. A coach or alumni will look over your work
+    * If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository
+1. The coach/alumni will move your card into the "NEEDS REVISION" column
+    * Read through the feedback and implement your changes.
+    * When you think you've addressed all of the feedback, move your card back into the "READY FOR REVISION" column
+1. The last two steps will repeat until a coach or alumni moves your card into the "DONE" column.  _(Only coaches and alumni can move cards into the "DONE" column!)_
+
+
+The issues you make for tracking each week's homework should look something like this.  The cool bullet points `- [ ]` will turn into live check-boxes that generate nifty progress bars [like this](https://github.com/HackYourFutureBelgium/class-6/projects/1):
+
+```
+Name of Project:
+* [repository](github.com/<user-name>/<repo-name>),
+* [github pages](https://<user-name>.github.io/<repo-name>) (if the project is static or has a report)
+
+Project Steps:
+- [ ]  [step 1](link to branch for step 1)
+- [ ]  [step 2](link to branch for step 2)
+- [ ]  [step 3](link to branch for step 3)
+- [ ]  ... (you can check off the steps and add the links as you complete them)
+
+Exercises
+- [ ] [exercise name]()
+- [ ] [exercise name]()
+- [ ] ...
+
+```
+
+[TOP](#homework-submission)
 
 
 ---
@@ -69,49 +131,6 @@ Enjoy!
 
 ---
 
-
-### Submission and Feedback Process
-
-We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues) and  [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) to submit assignments and give feedback.  The three biggest benefits to this are that your homework workflow will be very similar to a professional collaboration workflow, you'll be able to use GitHub's powerful code review tools to receive & implement feedback, and everything will be centralized in on place: your class repository on GitHub!
-
-
-The weekly workflow for submission and feedback will look something like this:
-
-1. Create a new issue in your class repo for each week's homework, then add each issue to the "TO DO" column of this module's project board.
-1. Study away! You will keep your coaches and classmates up to date on your progress and your challenges by checking off the boxes in your issue and by moving your card on the project board.
-1. If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet) in your repository!
-1. When you think your homework is finished (the project is complete and you've started all of the exercises), move your card into the "READY FOR REVIEW" column.
-1. A coach or alumni will look over your work
-    * If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository
-1. The coach/alumni will move your card into the "NEEDS REVISION" column
-    * Read through the feedback and implement your changes.
-    * When you think you've addressed all of the feedback, move your card back into the "READY FOR REVISION" column
-1. The last two steps will repeat until a coach or alumni moves your card into the "DONE" column.  _(Only coaches and alumni can move cards into the "DONE" column!)_
-
-
-The issues you make for tracking each week's homework should look something like this.  The cool bullet points `- [ ]` will turn into live check-boxes that generate nifty progress bars [like this](https://github.com/HackYourFutureBelgium/class-6/projects/1):
-
-```
-Name of Project:
-* [repository](github.com/<user-name>/<repo-name>),
-* [github pages](https://<user-name>.github.io/<repo-name>) (if the project is static or has a report)
-
-Project Steps:
-- [ ]  [step 1](link to branch for step 1)
-- [ ]  [step 2](link to branch for step 2)
-- [ ]  [step 3](link to branch for step 3)
-- [ ]  ... (you can check off the steps and add the links as you complete them)
-
-Exercises
-- [ ] [exercise name]()
-- [ ] [exercise name]()
-- [ ] ...
-
-```
-
-[TOP](#homework-submission)
-
----
 
 ## Missing Assignments Policy
 
