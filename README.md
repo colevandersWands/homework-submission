@@ -43,7 +43,7 @@ The weekly workflow for submission and feedback will look something like this:
 
 1. Create a new issue in your class repo for each week's homework, then add each issue to the "TO DO" column of this module's project board.
 1. Study away! You will keep your coaches and classmates up to date on your progress and your challenges by checking off the boxes in your issue and by moving your card on the project board.
-1. If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet) in your repository!
+1. If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)!  A coach, alumni, or classmate will be around soon to help you figure it out.
 1. When you think your homework is finished (the project is complete and you've started all of the exercises), move your card into the "READY FOR REVIEW" column.
 1. A coach or alumni will look over your work
     * If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository
