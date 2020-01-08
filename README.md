@@ -37,7 +37,7 @@ What counts as a homework submission?
 
 ## Submission and Feedback Process
 
-We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues) and  [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) to submit assignments and give feedback.  The three biggest benefits to this are that your homework workflow will be very similar to a professional collaboration workflow, you'll be able to use GitHub's powerful code review tools to receive & implement feedback, and everything will be centralized in on place: your class repository on GitHub!
+We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues),  [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) and [Notifications](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-notifications) to submit assignments and give feedback.  The three biggest benefits to this are that your homework workflow will be very similar to a professional collaboration workflow, you'll be able to use GitHub's powerful code review tools to receive & implement feedback, and everything will be centralized in on place: your class repository on GitHub!
 
 The weekly workflow for submission and feedback will look something like this:
 
