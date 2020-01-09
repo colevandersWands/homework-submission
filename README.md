@@ -48,19 +48,16 @@ The weekly workflow for submission and feedback will look something like this:
 1. The week before class:
     1. Create a new issue in your class repo for the coming week (the `weekly-homework` template is helpful) 
     1. Study the prep work for the next Sunday
-    1. Add your issue to the "PREP WORK" column of the current module's project board _after_ you have familiarized yourself with all of the preparation topics.
+    1. __PREP WORK__: Add your issue to the "PREP WORK" column of the current module's project board _after_ you have familiarized yourself with all of the preparation topics.
 1. Attend class on Sunday (on time at 12h!). In class you will prepare for the weekly homework assignments
 1. Study away! Move your card to the "IN PROGRESS" column once you have begun working on the week's project.
 1. You will keep your coaches and classmates up to date on your progress and your challenges by checking off the boxes in your issue and by moving your card on the project board.
-    * If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)!  A coach, alumni, or classmate will be around soon to help you figure it out.
-    * When you are no longer blocked, please move your card back to "IN PROGRESS" unless ...
-    * ... you think your homework is finished (the project is complete and you've started all of the exercises). Then move your card into the "READY FOR REVIEW" column.
+    * __BLOCKED__: If you are very stuck or confused, move your card to the "BLOCKED" column and leave a comment in your issue describing what has you blocked. Include screen shots and [link(s) to specific line(s) of code](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet)!  A coach, alumni, or classmate will be around soon to help you figure it out. When you are no longer blocked, please move your card back to ...
+    * __IN PROGRESS__: Keep your card here when you are happily working away.  Using the check-boxes in your issue you can keep track of how many assignments you have finished so far.
+    * __READY FOR REVIEW__: When you think your homework is finished (the project is complete and you've started all of the exercises). Then move your card into the "READY FOR REVIEW" column.
 1. A coach or alumni will look over your work
-    * If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository
-1. The coach/alumni will move your card into the "NEEDS REVISION" column
-    * Read through the feedback and implement your changes.
-    * When you think you've addressed all of the feedback, move your card back into the "READY FOR REVISION" column
-1. The last two steps will repeat until a coach or alumni moves your card into the "DONE" column.  _(Only coaches and alumni can move cards into the "DONE" column!)_
+    * __NEEDS REVISION__: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository.  You will also know which exercises need revision by which check-boxes are empty. After you have addressed all of the feedback, please move your card back into the "READY FOR REVIEW" column so we know to take another look.
+    * __Week X: DONE__: When all of your assignments are checked off and you've addressed all feedback, "DONE"!  There will be a separate column for each week's completed homework assignments. _(Only coaches can move cards into the "DONE" column!)_
 
 
 
