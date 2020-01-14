@@ -1,6 +1,6 @@
 # Homework Submission
 
-How do we do homework submission and feedback?  Like this!
+How do we do homework submission and feedback?  Like this.
 
 ### Index:
 * [Submission Deadline](#submission-deadline)
