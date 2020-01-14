@@ -85,7 +85,8 @@ At the top of each week's README.md you will find a list of videos, articles or 
 You will be assigned one project each week. The goal of projects is to get "the big picture". Learning how to approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works!  You'll be expected to ...
 * Break your project into steps and to develop those steps on separate branches, merging them into `master` when the step is complete.
 * Write a clean README describing what your project does, how it works, what you learned, and what you struggled with.
-* Deploy your project using GitHub Pages at first, and non-static hosting solutions once you reach `Full-Stacking`.
+* Inclide a markdown file called `development-strategy.md` describing the steps you made to complete your project, and what code you wrote to build each step.
+* Deploy your project using GitHub Pages at first, and non-static hosting solutions once you start building full web apps.
 
 Projects come in three types:
 1. __Code-Alongs__: For code-along projects you will be assigned a video tutorial to study. You'll need to submit your version of the tutorial's project in a new repository developed with branches, and with a complete README.  Code-along projects are very good for learning new technologies and skills
