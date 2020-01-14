@@ -85,7 +85,7 @@ At the top of each week's README.md you will find a list of videos, articles or 
 You will be assigned one project each week. The goal of projects is to get "the big picture". Learning how to approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works!  You'll be expected to ...
 * Break your project into steps and to develop those steps on separate branches, merging them into `master` when the step is complete.
 * Write a clean README describing what your project does, how it works, what you learned, and what you struggled with.
-* Inclide a markdown file called `development-strategy.md` describing the steps you made to complete your project, and what code you wrote to build each step.
+* Inclide a markdown file called `development-strategy.md` describing the steps you made to complete your project, what value each step adds to the use, and what code you wrote to build each step.
 * Deploy your project using GitHub Pages at first, and non-static hosting solutions once you start building full web apps.
 
 Projects come in three types:
