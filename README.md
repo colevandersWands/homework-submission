@@ -66,7 +66,7 @@ The weekly workflow for submission and feedback will look something like this:
 
 ## Sunday Review Questions
 
-Your class repository has a label for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and tag it in your Class Repository!  This could mean creating a new issue there just for your question, or tagging an existing issue in the class repo that caused you and your classmates some confusion.
+Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and tag it in your Class Repository!  This could mean creating a new issue there just for your question, or tagging an existing issue in the class repo that caused you and your classmates some confusion.
 
 During the review section of class your coaches will go through all of the labeled issues, closing them when your question has been answered.
 
