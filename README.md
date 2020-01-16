@@ -47,6 +47,7 @@ When creating your issue always go through this checklist so your issue is finda
 * __Assign__:  Assign the issue to yourself.
 * __Label__: Label your issue with the week.
 * __Milestone__: Set the current module as a milestone.
+* __Write__: Write out a check-box list including the week's prep work, project, and exercises.
 * __Project__: Add your issue to this module's homework board.
 
 Besides making it easier to filter and search all of the issues in your class repository, following these steps helps us to easily understand your individual progress through the course (using the GitHub API).  Help us help you!
