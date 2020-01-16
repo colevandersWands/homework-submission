@@ -5,7 +5,7 @@ How do we do homework submission and feedback?  Like this.
 ### Index:
 
 * [Submission Deadline](#submission-deadline)
-* [Homework Issues](#homework-issues)
+* [Weekly Issue](#weekly-issue)
 * [Submission & Feedback Process](#submission-and-feedback-process)
 * [Sunday Review Questions](#sunday-review-questions)
 * [Types of Assignments](#types-of-assignments)
@@ -37,7 +37,7 @@ What counts as a homework submission?
 
 ---
 
-## Homework Issues
+## Weekly Issue
 
 For each week you will create a new _homework issue_.  You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished.  Your class repository has a template issue you can use to help you get the hang of things.
 
