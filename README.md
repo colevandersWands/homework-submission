@@ -3,8 +3,10 @@
 How do we do homework submission and feedback?  Like this.
 
 ### Index:
+
 * [Submission Deadline](#submission-deadline)
 * [Submission & Feedback Process](#submission-and-feedback-process)
+* [Sunday Review Questions](#sunday-review-questions)
 * [Types of Assignments](#types-of-assignments)
     1. [Prep Work](#prep-work)
     1. [Projects](#projects)
@@ -38,15 +40,14 @@ What counts as a homework submission?
 
 ## Submission and Feedback Process
 
-
-We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues),  [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) and [Notifications](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-notifications) to submit assignments and give feedback. You will find a [template issue](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates) you can use to start each week's submission. 
+We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues),  [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) and [Notifications](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-notifications) to submit assignments and give feedback. You will find a [template issue](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates) you can use to start each week's submission.
 
 This homework submission workflow is very similar to a professional collaboration workflow.  You will be able to use GitHub's powerful code review tools to receive & implement feedback, and everything will be centralized in on place: your class repository on GitHub!
 
 The weekly workflow for submission and feedback will look something like this:
 
 1. The week before class:
-    1. Create a new issue in your class repo for the coming week (the `weekly-homework` template is helpful) 
+    1. Create a new issue in your class repo for the coming week (the `weekly-homework` template is helpful)
     1. Study the prep work for the next Sunday
     1. __PREP WORK__: Add your issue to the "PREP WORK" column of the current module's project board _after_ you have familiarized yourself with all of the preparation topics.
 1. Attend class on Sunday (on time at 12h!). In class you will prepare for the weekly homework assignments
@@ -59,12 +60,17 @@ The weekly workflow for submission and feedback will look something like this:
     * __NEEDS REVISION__: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository.  You will also know which exercises need revision by which check-boxes are empty. After you have addressed all of the feedback, please move your card back into the "READY FOR REVIEW" column so we know to take another look.
     * __Week X: DONE__: When all of your assignments are checked off and you've addressed all feedback, "DONE"!  There will be a separate column for each week's completed homework assignments. _(Only coaches can move cards into the "DONE" column!)_
 
-
-
-
-
 [TOP](#homework-submission)
 
+---
+
+## Sunday Review Questions
+
+Your class repository has a label for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and tag it in your Class Repository!  This could mean creating a new issue there just for your question, or tagging an existing issue in the class repo that caused you and your classmates some confusion.
+
+During the review section of class your coaches will go through all of the labeled issues, closing them when your question has been answered.
+
+[TOP](#homework-submission)
 
 ---
 
@@ -84,7 +90,7 @@ At the top of each week's README.md you will find a list of videos, articles or 
 
 You will be assigned one project each week. The goal of projects is to get "the big picture". Learning how to approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works!  You'll be expected to ...
 * Break your project into steps and to develop those steps on separate branches, merging them into `master` when the step is complete.
-* Write a clean README describing what your project does, how it works, what you learned, and what you struggled with.
+* A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3).
 * Inclide a markdown file called `development-strategy.md` describing the steps you made to complete your project, what value each step adds to the use, and what code you wrote to build each step.
 * Deploy your project using GitHub Pages at first, and non-static hosting solutions once you start building full web apps.
 
@@ -103,8 +109,8 @@ Sometimes there will be _a lot_ of exercises, and these exercises can be quite c
 
 Exercises will come in 3 general types as well:
 1. __Theory__: Theory exercises will look deeply at the technologies you are using.  All of these exercises will be accompanied by an execution visualization for you to really understand what's happening behind your code. You might find these exercises a bit dry, or might love them!  Either way they're worth every minute you spend studying them.  If you don't take the time to master the theory exercises you will have a hard time debugging your code, applying the technologies correctly, writing & reading tests, or effectively using the developer tools.
-1. __Practice__: These exercises are what you probably think of as standard coding exercises, the types of challenges you find on FreeCodeCamp and other web tutorials.  Practice exercises will be bite-sized coding challenges that ask you apply the technologies you studied in Theory exercises to solve small challenges. 
-1. __Integration__: Integration exercises are effectively tiny projects.  In them you will practice integrating the various skills and technologies you've learned so far into realistic (but tiny) projects.  Imagine something like building 5 websites with only one button each.  It's enough to practice the process of building and completing something without getting lost in the size of your project.  
+1. __Practice__: These exercises are what you probably think of as standard coding exercises, the types of challenges you find on FreeCodeCamp and other web tutorials.  Practice exercises will be bite-sized coding challenges that ask you apply the technologies you studied in Theory exercises to solve small challenges.
+1. __Integration__: Integration exercises are effectively tiny projects.  In them you will practice integrating the various skills and technologies you've learned so far into realistic (but tiny) projects.  Imagine something like building 5 websites with only one button each.  It's enough to practice the process of building and completing something without getting lost in the size of your project.
 
 ### Assessments
 
