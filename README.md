@@ -5,6 +5,7 @@ How do we do homework submission and feedback?  Like this.
 ### Index:
 
 * [Submission Deadline](#submission-deadline)
+* [Homework Issues](#homework-issues)
 * [Submission & Feedback Process](#submission-and-feedback-process)
 * [Sunday Review Questions](#sunday-review-questions)
 * [Types of Assignments](#types-of-assignments)
@@ -22,7 +23,7 @@ How do we do homework submission and feedback?  Like this.
 
 Your homework submissions are due by Friday to give your coaches time to review them before Sunday.  You are expected to complete each week's project.  It's ok if you just start the exercises, there are a lot of them and they can get quite tricky. They'll always be there for you to review later :)
 
-> Due Friday afternnon
+> Due Friday afternoon
 
 What counts as a homework submission?
 
@@ -32,7 +33,23 @@ What counts as a homework submission?
 1. All of the links must work! One dead link will count as a whole missing assignment.
 1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION", or "DONE" column.
 
+[TOP](#homework-submission)
 
+---
+
+## Homework Issues
+
+For each week you will create a new _homework issue_.  You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished.  Your class repository has a template issue you can use to help you get the hang of things.
+
+When creating your issue always go through this checklist so your issue is findable and usable:
+
+* __Name__: Name your issue something helpful including: your name, the name of the module, and which week it is for
+* __Assign__:  Assign the issue to yourself.
+* __Label__: Label your issue with the week.
+* __Milestone__: Set the current module as a milestone.
+* __Project__: Add your issue to this module's homework board.
+
+Besides making it easier to filter and search all of the issues in your class repository, following these steps helps us to easily understand your individual progress through the course (using the GitHub API).  Help us help you!
 
 [TOP](#homework-submission)
 
