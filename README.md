@@ -28,10 +28,12 @@ Your homework submissions are due by Friday to give your coaches time to review 
 What counts as a homework submission?
 
 1. You have created a new issue with an clear and helpful title.
-1. The issue has links to your weekly project, including a separate link to each branch. (the project must be completed!)
+1. The issue has links to your completed weekly project, including a separate link to each branch. (the project must be completed!)
 1. You have linked to each of the assigned exercise repositories, even if they are not completed.
 1. All of the links must work! One dead link will count as a whole missing assignment.
 1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION", or "DONE" column.
+
+If for any reason you are not able to complete the weely assignemnts, move your card into "BLOCKED" Friday afternoon and leave a little comment for us.
 
 [TOP](#homework-submission)
 
