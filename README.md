@@ -6,8 +6,10 @@ How do we do homework submission and feedback?  Like this.
 
 * [Submission Deadline](#submission-deadline)
 * [Weekly Issues](#weekly-issues)
+    * [Homework Issues](#homework-issues)
+    * [Wednesday Check-Ins](#wednesday-check-ins)
+    * [Sunday Review Questions](#sunday-review-questions)
 * [Submission & Feedback Process](#submission-and-feedback-process)
-* [Sunday Review Questions](#sunday-review-questions)
 * [Types of Assignments](#types-of-assignments)
     1. [Prep Work](#prep-work)
     1. [Projects](#projects)
@@ -41,18 +43,46 @@ If for any reason you are not able to complete the weely assignemnts, move your 
 
 ## Weekly Issues
 
+Over the course of the week you will be using GitHub Issues to track progress on your homework, let everyone know what you're strugging with, and to prepare for the next Sunday's review.  
+
+### Homework Issues
+
 For each week you will create a new _homework issue_.  You, your coach and your classmates will use will use it to track your progress, help you when you're stuck, and give feedback when you've finished.  Your class repository has a template issue you can use to help you get the hang of things.
 
 When creating your issue always go through this checklist so your issue is findable and usable:
 
 * __Name__: Name your issue something helpful including: your name, the name of the module, and which week it is for
 * __Assign__:  Assign the issue to yourself.
-* __Label__: Label your issue with the week.
+* __Label__: Label your issue with `week-n` _and_ `homework`.
 * __Milestone__: Set the current module as a milestone.
-* __Check-Box__: Write out a check-box list including the week's prep work, project, and exercises.
 * __Project__: Add your issue to this module's homework board.
 
 Besides making it easier to filter and search all of the issues in your class repository, following these steps helps us to easily understand your individual progress through the course (using the GitHub API).  Help us help you!
+
+Once your issue is set-up write the __Check-Boxs__  for this week's assignments including the prep work, project, and exercises.
+
+### Wednesday Check-Ins
+
+Each wednesday by noon you will be expected to create a new issue updating your classmates and coaches on your progress since Sunday.  The first step is to set up your issue:
+
+* __Name__: Name your issue something helpful 
+* __Label__: Label your issue with `week-n` _and_ `wednesday-check-in`.
+* __Milestone__: Set the current module as a milestone.
+
+The next step is to write these four section in your issue's description:
+
+1. __Progress__: What have you learned and/or completed so far this week?
+2. __Blocked__: What are you having trouble understanding? What parts of the homework are you strugging to complete?
+3. __Next Steps__: What are your goals and your study plans for the rest of the week?
+4. __Tip(s) of the week__: Share some tips, tricks or links that made a big difference for you.  
+
+And the last step is to read eachothers' issues. We're all in this together!
+
+### Sunday Review Questions
+
+Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and tag it in your Class Repository!  This could mean creating a new issue there just for your question, or tagging an existing issue in the class repo that caused you and your classmates some confusion.
+
+During the review section of class your coaches will go through all of the labeled issues, closing them when your question has been answered.
 
 [TOP](#homework-submission)
 
@@ -79,16 +109,6 @@ The weekly workflow for submission and feedback will look something like this:
 1. A coach or alumni will look over your work
     * __NEEDS REVISION__: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository.  You will also know which exercises need revision by which check-boxes are empty. After you have addressed all of the feedback, please move your card back into the "READY FOR REVIEW" column so we know to take another look.
     * __Week X: DONE__: When all of your assignments are checked off and you've addressed all feedback, "DONE"!  There will be a separate column for each week's completed homework assignments. _(Only coaches can move cards into the "DONE" column!)_
-
-[TOP](#homework-submission)
-
----
-
-## Sunday Review Questions
-
-Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and tag it in your Class Repository!  This could mean creating a new issue there just for your question, or tagging an existing issue in the class repo that caused you and your classmates some confusion.
-
-During the review section of class your coaches will go through all of the labeled issues, closing them when your question has been answered.
 
 [TOP](#homework-submission)
 
