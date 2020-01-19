@@ -158,11 +158,11 @@ Enjoy!
 ## Missing Assignments Policy
 
 1. Missing  _3_  homework submissions is grounds for leaving Hack Your Future.  Should this happen we will have a 1-1 meeting with you to determine the best course of action.   (not turning on GitHub Pages counts as a missed submission!)
-1. Submitting  _2_  incomplete homework assignments is a sign that you need more support or accommodation from us.  Should this happen please get in touch with us to schedule a 1-1 meeting with so we can understand your situation and how we can best help you.
+1. Submitting  _2_  incomplete homework assignments is a sign that you need more support or accommodation from us.  Should this happen please get in touch with us to schedule a 1-1 meeting with so we can understand your situation and how we can best help you.  
 1. Cheating  _1_  time is grounds for leaving Hack Your Future. if we find out you are doing this we will have a 1-1 meeting and it will probably be the end of your time with us.
 
 What does this all mean?  It means:
-* Submit your homework even if it isn’t complete.  We can’t help you if we don’t know what you’re struggling with!
+* Submit your homework even if it isn’t complete.  We can’t help you if we don’t know what you’re struggling with! If you are not able to finish your project on time, please leave your card in the "BLOCKED" column.  Not finishing an assignment because you were truely stuck will never get you in trouble, but saying you are finished when you clearly aren't will count as a missed assignment.  This is how we will know to help you.
 * Be accountable and thorough, ask for help often and submit your homework on time.  If you haven't completed the whole assignment you can still submit it correctly.
 * There is no penalty for not understanding, only for not trying.  Web development is very challenging, even your coaches spend most of their time learning and fixing mistakes!
 * Cheating is not tolerated.  There is a large difference between stealing and collaborating, even if the end result looks the same (ie. you both have the same code).
