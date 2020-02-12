@@ -65,7 +65,7 @@ Once your issue is set-up write the __Check-Boxs__  for this week's assignments 
 
 > Psst.  Please don't put these on the homework project board!  Reserve the board for homework issues only to avoid cluttering it up.
 
-Each wednesday by noon you will be expected to create a _new_ issue updating your classmates and coaches on your progress since Sunday.  The first step is to set up your issue:
+Each wednesday you are be expected to create a _new_ issue updating your classmates and coaches on your progress since Sunday.  The first step is to set up your issue:
 
 * __Name__: Name your issue something helpful 
 * __Label__: Label your issue with `week-n` _and_ `wednesday-check-in`.
