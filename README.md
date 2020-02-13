@@ -23,19 +23,21 @@ How do we do homework submission and feedback?  Like this.
 
 ## Submission Deadline
 
-Your homework submissions are due by Friday to give your coaches time to review them before Sunday.  You are expected to complete each week's project.  It's ok if you just start the exercises, there are a lot of them and they can get quite tricky. They'll always be there for you to review later :)
-
 > Due Friday afternoon
+
+Your homework submissions are due by Friday to give your coaches time to review them before Sunday.  You are expected to complete as many of the exercises as possible and to have made good progress on the project.  It's ok if you don't finish, there are a lot of them and they can get quite tricky. They'll always be there for you to review later :)
+
+Submit your homework even if you haven't finished the project! If you weren't able to finish the project, pleas leave some notes in your homework issue explaining what you struggled, how far you made it, and what you were able to finish.  This will help your coaches know how they can help you individually and collectively when you discuss the project together in class.
 
 What counts as a homework submission?
 
-1. You have created a new issue with an clear and helpful title.
+1. You have created a new issue with a clear and helpful title.
 1. The issue has links to your completed weekly project, including a separate link to each branch. (the project must be completed!)
 1. You have linked to each of the assigned exercise repositories, even if they are not completed.
 1. All of the links must work! One dead link will count as a whole missing assignment.
-1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION", or "DONE" column.
+1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION" column.
 
-If for any reason you are not able to complete the weely assignemnts, move your card into "BLOCKED" Friday afternoon and leave a little comment for us.
+If your project is not finished or has some problems, your coach will move your card to "NEEDS REVISION" after checking your work on Friday.  This still counts as an on-time homework submission.
 
 [TOP](#homework-submission)
 
@@ -128,7 +130,7 @@ At the top of each week's README.md you will find a list of videos, articles or 
 
 ### Projects
 
-> You are required to finish all projects
+> You are required to make it as far as possible in the projects
 
 You will be assigned one project each week. The goal of projects is to get "the big picture". Learning how to approach a large challenge, break it down to smaller pieces, and apply the skills you're learning to build incremental solutions. These projects are about more than just writing code that works!  You'll be expected to ...
 * Break your project into steps and to develop those steps on separate branches, merging them into `master` when the step is complete.
