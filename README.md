@@ -8,7 +8,7 @@ How do we do homework submission and feedback?  Like this.
 * [Weekly Issues](#weekly-issues)
     * [Homework Issues](#homework-issues)
     * [Wednesday Check-Ins](#wednesday-check-ins)
-    * [Ask on Sunday](#ask-on-sunday)
+    * [Sunday Review](#sunday-review)
     * [General Questions](#general-questions)
 * [Submission & Feedback Process](#submission-and-feedback-process)
 * [Types of Assignments](#types-of-assignments)
@@ -67,6 +67,8 @@ Besides making it easier to filter and search all of the issues in your class re
 
 Once your issue is set-up write the __Check-Boxs__  for this week's assignments including the prep work, project, and exercises.
 
+---
+
 ### Wednesday Check-Ins
 
 > Psst.  Please don't put these on the homework project board!  Reserve the board for homework issues only to avoid cluttering it up.
@@ -86,14 +88,15 @@ The next step is to write these four section in your issue's description:
 
 And the last step is to read eachothers' issues. We're all in this together!
 
-### Ask on Sunday
+---
 
-Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and create a new issue in your Class Repository! Sunday review issues should:
+### Sunday Review
 
-1. Be labeled `ask-on-sunday` and `week-x`
-1. Be assigned to the milestone for your current module (ie. `incremental-development`)
+Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) for issues called `sunday-review` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in person on Sunday go ahead and create a new issue in your Class Repository! Sunday review issues should:
 
-During the review section of class your coaches will go through all of the `ask-on-sunday` issues, closing them when your question has been answered.
+1. Be labeled `sunday-review`
+
+During the review section of class your coaches will go through all of the `sunday-review` issues, closing them when your question has been answered.
 
 [TOP](#homework-submission)
 
@@ -103,9 +106,9 @@ During the review section of class your coaches will go through all of the `ask-
 
 Got any other questions?  Use the label `question`!  No need for any other labeling, assigning or milestoning. You can attach this label to a new issue or to an existing issue. 
 
-What's most important is that you are clear about what you're confused by, what you've tried so far, and any extra links for context (ie. links to your code, to helpful resources, ...).
+What's most important is that you are clear about what you're confused by, what you've tried so far, and any extra links for context (ie. links to your code, to helpful resources, ...).  When your question is answered you should close the issue.  
 
-When your question is answered you can close the issue. And keep an eye out in your Class Repo for new `question` issues, the more you help the more you learn.
+Keep an eye out in your Class Repo for new `question` issues, the more you help the more you learn.
 
 [TOP](#homework-submission)
 
