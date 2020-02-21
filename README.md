@@ -8,7 +8,8 @@ How do we do homework submission and feedback?  Like this.
 * [Weekly Issues](#weekly-issues)
     * [Homework Issues](#homework-issues)
     * [Wednesday Check-Ins](#wednesday-check-ins)
-    * [Sunday Review Questions](#sunday-review-questions)
+    * [Ask on Sunday](#ask-on-sunday)
+    * [General Questions](#general-questions)
 * [Submission & Feedback Process](#submission-and-feedback-process)
 * [Types of Assignments](#types-of-assignments)
     1. [Prep Work](#prep-work)
@@ -25,7 +26,7 @@ How do we do homework submission and feedback?  Like this.
 
 > Due Friday afternoon
 
-Your homework submissions are due by Friday to give your coaches time to review them before Sunday.  You are expected to complete as many of the exercises as possible and to have made good progress on the project.  It's ok if you don't finish, there are a lot of them and they can get quite tricky. They'll always be there for you to review later :)
+Your homework submissions are due by Friday to give your coaches time to review them before Sunday.  You are expected to complete as many of the exercises as possible and to have made good progress on the project.  It's ok if you don't finish, it's more important that you master what you can and let us know what you need help with. They'll always be there for you to review later :)
 
 Submit your homework even if you haven't finished the project! If you weren't able to finish the project, pleas leave some notes in your homework issue explaining what you struggled, how far you made it, and what you were able to finish.  This will help your coaches know how they can help you individually and collectively when you discuss the project together in class.
 
@@ -35,9 +36,12 @@ What counts as a homework submission?
 1. The issue has links to your completed weekly project, including a separate link to each branch. (the project must be completed!)
 1. You have linked to each of the assigned exercise repositories, even if they are not completed.
 1. All of the links must work! One dead link will count as a whole missing assignment.
+1. You have labeled your issue `ready-for-review`
 1. Your card needs to be in the "READY FOR REVIEW", "NEEDS REVISION" column.
 
 If your project is not finished or has some problems, your coach will move your card to "NEEDS REVISION" after checking your work on Friday.  This still counts as an on-time homework submission.
+
+If the project is finished and the coach has no further comments, they will close your issue and move it to the "DONE" column.
 
 [TOP](#homework-submission)
 
@@ -82,11 +86,26 @@ The next step is to write these four section in your issue's description:
 
 And the last step is to read eachothers' issues. We're all in this together!
 
-### Sunday Review Questions
+### Ask on Sunday
 
-Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and tag it in your Class Repository!  This could mean creating a new issue there just for your question, or tagging an existing issue in the class repo that caused you and your classmates some confusion.
+Your class repository has [a label](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests) for issues called `ask on Sunday` (it's bright yellow 🌞).  Whenever you come across a problem or topic that you would like to review in class on Sunday go ahead and create a new issue in your Class Repository! Sunday review issues should:
 
-During the review section of class your coaches will go through all of the labeled issues, closing them when your question has been answered.
+1. Be labeled `ask-on-sunday` and `week-x`
+1. Be assigned to the milestone for your current module (ie. `incremental-development`)
+
+During the review section of class your coaches will go through all of the `ask-on-sunday` issues, closing them when your question has been answered.
+
+[TOP](#homework-submission)
+
+---
+
+### General Questions
+
+Got any other questions?  Use the label `question`!  No need for any other labeling, assigning or milestoning. You can attach this label to a new issue or to an existing issue. 
+
+What's most important is that you are clear about what you're confused by, what you've tried so far, and any extra links for context (ie. links to your code, to helpful resources, ...).
+
+When your question is answered you can close the issue. And keep an eye out in your Class Repo for new `question` issues, the more you help the more you learn.
 
 [TOP](#homework-submission)
 
