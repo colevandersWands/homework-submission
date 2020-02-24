@@ -76,6 +76,7 @@ Once your issue is set-up write the __Check-Boxs__  for this week's assignments 
 Each wednesday you are be expected to create a _new_ issue updating your classmates and coaches on your progress since Sunday.  The first step is to set up your issue:
 
 * __Name__: Name your issue something helpful 
+* __Assign__:  Assign the issue to yourself.
 * __Label__: Label your issue with `week-n` _and_ `wednesday-check-in`.
 * __Milestone__: Set the current module as a milestone.
 
