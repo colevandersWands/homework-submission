@@ -11,6 +11,7 @@ How do we do homework submission and feedback?  Like this.
     * [Sunday Review](#sunday-review)
     * [General Questions](#general-questions)
 * [Submission & Feedback Process](#submission-and-feedback-process)
+* [Assignment Levels](#assignment-levels)
 * [Types of Assignments](#types-of-assignments)
     1. [Prep Work](#prep-work)
     1. [Projects](#projects)
@@ -49,7 +50,7 @@ If the project is finished and the coach has no further comments, they will clos
 
 ## Weekly Issues
 
-Over the course of the week you will be using GitHub Issues to track progress on your homework, let everyone know what you're strugging with, and to prepare for the next Sunday's review.  
+Over the course of the week you will be using GitHub Issues to track progress on your homework, let everyone know what you're strugging with, and to prepare for the next Sunday's review.
 
 ### Homework Issues
 
@@ -71,12 +72,12 @@ Once your issue is set-up write the __Check-Boxs__  for this week's assignments 
 
 ### Wednesday Check-Ins
 
-> Psst.  Please don't put these on the homework project board!  
+> Psst.  Please don't put these on the homework project board!
 > Reserve the board for homework issues only to avoid cluttering it up.
 
 Each wednesday you are be expected to create a _new_ issue updating your classmates and coaches on your progress since Sunday.  The first step is to set up your issue:
 
-* __Name__: Name your issue something helpful 
+* __Name__: Name your issue something helpful
 * __Assign__:  Assign the issue to yourself.
 * __Label__: Label your issue with `week-n` _and_ `wednesday-check-in`.
 * __Milestone__: Set the current module as a milestone.
@@ -86,7 +87,7 @@ The next step is to write these four section in your issue's description:
 1. __Progress__: What have you learned and/or completed so far this week?
 2. __Blocked__: What are you having trouble understanding? What parts of the homework are you strugging to complete?
 3. __Next Steps__: What are your goals and your study plans for the rest of the week?
-4. __Tip(s) of the week__: Share some tips, tricks or links that made a big difference for you.  
+4. __Tip(s) of the week__: Share some tips, tricks or links that made a big difference for you.
 
 And the last step is to read eachothers' issues. We're all in this together!
 
@@ -106,11 +107,23 @@ During the review section of class your coaches will go through all of the `sund
 
 ### General Questions
 
-Got any other questions?  Use the label `question`!  No need for any other labeling, assigning or milestoning. You can attach this label to a new issue or to an existing issue. 
+Got any other questions?  Use the label `question`!  No need for any other labeling, assigning or milestoning. You can attach this label to a new issue or to an existing issue.
 
-What's most important is that you are clear about what you're confused by, what you've tried so far, and any extra links for context (ie. links to your code, to helpful resources, ...).  When your question is answered you should close the issue.  
+What's most important is that you are clear about what you're confused by, what you've tried so far, and any extra links for context (ie. links to your code, to helpful resources, ...).  When your question is answered you should close the issue.
 
 Keep an eye out in your Class Repo for new `question` issues, the more you help the more you learn.
+
+[TOP](#homework-submission)
+
+---
+
+## Assignment Levels
+
+Not all assignments are created equal.  These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
+
+* :egg: ```:egg:``` - these assignments are required, they cover the base skills you'll need to move on.
+* :hatching_chick: ```:hatching_chick:``` - do your best to start these exercises. you don't need to finish or master them (yet) but getting the main idea will be helpful in coming weeks
+* :hatched_chick: ```:hatched_chick:``` - Have you finished all the :egg:'s and :hatching_chick:'s? push yourself with these challenges!
 
 [TOP](#homework-submission)
 
@@ -206,7 +219,7 @@ Enjoy!
 ## Missing Assignments Policy
 
 1. Missing  _3_  homework submissions is grounds for leaving Hack Your Future.  Should this happen we will have a 1-1 meeting with you to determine the best course of action.   (not turning on GitHub Pages counts as a missed submission!)
-1. Submitting  _2_  incomplete homework assignments is a sign that you need more support or accommodation from us.  Should this happen please get in touch with us to schedule a 1-1 meeting with so we can understand your situation and how we can best help you.  
+1. Submitting  _2_  incomplete homework assignments is a sign that you need more support or accommodation from us.  Should this happen please get in touch with us to schedule a 1-1 meeting with so we can understand your situation and how we can best help you.
 1. Cheating  _1_  time is grounds for leaving Hack Your Future. if we find out you are doing this we will have a 1-1 meeting and it will probably be the end of your time with us.
 
 What does this all mean?  It means:
