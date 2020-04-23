@@ -13,6 +13,7 @@ How do we do homework submission and feedback?  Like this.
 * [Submission & Feedback Process](#submission-and-feedback-process)
 * [Code Review](#code-review)
 * [Assignment Levels](#assignment-levels)
+    *  :egg:, :hatching_chick:, :hatched_chick:
 * [Types of Assignments](#types-of-assignments)
     1. [Prep Work](#prep-work)
     1. [Projects](#projects)
