@@ -11,6 +11,7 @@ How do we do homework submission and feedback?  Like this.
     * [Sunday Review](#sunday-review)
     * [General Questions](#general-questions)
 * [Submission & Feedback Process](#submission-and-feedback-process)
+* [Code Review](#code-review)
 * [Assignment Levels](#assignment-levels)
 * [Types of Assignments](#types-of-assignments)
     1. [Prep Work](#prep-work)
@@ -117,18 +118,6 @@ Keep an eye out in your Class Repo for new `question` issues, the more you help 
 
 ---
 
-## Assignment Levels
-
-Not all assignments are created equal.  These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
-
-* :egg: ```:egg:``` - these assignments are required, they cover the base skills you'll need to move on.
-* :hatching_chick: ```:hatching_chick:``` - do your best to start these exercises. you don't need to finish or master them (yet) but getting the main idea will be helpful in coming weeks
-* :hatched_chick: ```:hatched_chick:``` - Have you finished all the :egg:'s and :hatching_chick:'s? push yourself with these challenges!
-
-[TOP](#homework-submission)
-
----
-
 ## Submission and Feedback Process
 
 We use GitHub [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues),  [Project Boards](https://codeburst.io/an-introduction-to-github-project-boards-2944e6ffbf3c) and [Notifications](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/about-notifications) to submit assignments and give feedback. You will find a [template issue](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates) you can use to start each week's submission.
@@ -150,6 +139,26 @@ The weekly workflow for submission and feedback will look something like this:
 1. A coach or alumni will look over your work
     * __NEEDS REVISION__: If there is anything to improve they will leave their feedback for you directly on GitHub, either in your weekly issue or as new issues in your repository.  You will also know which exercises need revision by which check-boxes are empty. After you have addressed all of the feedback, please move your card back into the "READY FOR REVIEW" column so we know to take another look.
     * __Week X: DONE__: When all of your assignments are checked off and you've addressed all feedback, "DONE"!  There will be a separate column for each week's completed homework assignments. _(Only coaches can move cards into the "DONE" column!)_
+
+[TOP](#homework-submission)
+
+---
+
+## Code Review
+
+You will be using GitHub code review workflows to handle all of your homework needs.  [Take a look through this page from Study](https://study.hackyourfuture.be/collaborating/code-review) for some helpful links.
+
+[TOP](#homework-submission)
+
+---
+
+## Assignment Levels
+
+Not all assignments are created equal.  These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
+
+* :egg: ```:egg:``` - these assignments are required, they cover the base skills you'll need to move on.
+* :hatching_chick: ```:hatching_chick:``` - do your best to start these exercises. you don't need to finish or master them (yet) but getting the main idea will be helpful in coming weeks
+* :hatched_chick: ```:hatched_chick:``` - Have you finished all the :egg:'s and :hatching_chick:'s? push yourself with these challenges!
 
 [TOP](#homework-submission)
 
