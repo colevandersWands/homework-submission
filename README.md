@@ -62,7 +62,8 @@ When creating your issue always go through this checklist so your issue is finda
 
 * __Name__: Name your issue something helpful including: your name, the name of the module, and which week it is for
 * __Assign__:  Assign the issue to yourself.
-* __Label__: Label your issue with `week-n` _and_ `homework`.
+* __Label__: Label your issue with `week-n`, _and_ `homework`. 
+   * If your home repository has more than one class (ie. Class 9 & Class 10), please label your issue with your class number: `class-n`
 * __Milestone__: Set the current module as a milestone.
 * __Project__: Add your issue to this module's homework board.
 
