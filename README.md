@@ -10,7 +10,7 @@ How do we do homework submission and feedback?  Like this.
    * [Task Lists](#task-lists)
    * [Labels, Milestones, Assignees](#labels-milestones-assignees)
    * [Project Boards](#project-boards)
-   * [Pull
+   * [Pull Requests](#pull-requests)
 * [Weekly Issues](#weekly-issues)
     * [Homework Issues](#homework-issues)
     * [Wednesday Check-Ins](#wednesday-check-ins)
