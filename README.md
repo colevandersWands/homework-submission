@@ -5,21 +5,24 @@ How do we do homework submission and feedback?  Like this.
 ### Index:
 
 * [Submission Deadline](#submission-deadline)
+* [Project Managing on GitHub](#project-management-on-github)
+   * [Issues](#issues)
+   * [Task Lists](#task-lists)
+   * [Labels, Milestones, Assignees](#labels-milestones-assignees)
+   * [Project Boards](#project-boards)
+   * [Pull
 * [Weekly Issues](#weekly-issues)
     * [Homework Issues](#homework-issues)
     * [Wednesday Check-Ins](#wednesday-check-ins)
     * [Sunday Review](#sunday-review)
     * [General Questions](#general-questions)
 * [Submission & Feedback Process](#submission-and-feedback-process)
-* [Code Review](#code-review)
 * [Assignment Levels](#assignment-levels)
     *  :egg: :hatching_chick: :hatched_chick:
 * [Types of Assignments](#types-of-assignments)
     1. [Prep Work](#prep-work)
     1. [Projects](#projects)
     1. [Exercises](#exercises)
-    1. [Assessments](#assessments)
-    1. [Deeper Dives](#deeper-dives)
 * [Missing Assignments Policy](#missing-assignments-policy)
 * [Helpful Links](#helpful-links)
 
@@ -45,6 +48,38 @@ What counts as a homework submission?
 If your project is not finished or has some problems, your coach will move your card to "NEEDS REVISION" after checking your work on Friday.  This still counts as an on-time homework submission.
 
 If the project is finished and the coach has no further comments, they will close your issue and move it to the "DONE" column.
+
+[TOP](#homework-submission)
+
+---
+
+## Project Management on GitHub
+
+GitHub comes with built-in features for collaborating on projects and tracking progress.  You will learn how to use most of these features and workflows through the homework submission process.  Taking the time to understand how we handle homework at HYF will directly prepare you for working on a team using the _agile development_ methodology.
+
+### Issues
+
+The cornerstone of the homework submission process is GitHub Issues ([link 1](https://help.github.com/en/github/managing-your-work-on-github/about-issues), [link 2](https://guides.github.com/features/issues/)).  You can think of an issue as a high-tech post-it note. Each week you will be required to create 2 issues: a __Homework Issue__ and a __Wednesday Check-in__.  
+
+### Task Lists
+
+By using check boxes (`- [ ]`) you can turn your issues into a [task list](https://help.github.com/en/github/managing-your-work-on-github/about-task-lists).  This will let you and your coaches see how far you are through the week's assignments just by displaying a progress bar, without needing to open the issue.
+
+### Labels, Milestones, Assignees
+
+Over your time at HYF, you and your classmates will create hundreds of issues in the class repository.  To keep everything [well-organized and searchable](https://help.github.com/en/enterprise/2.20/user/github/managing-your-work-on-github/filtering-issues-and-pull-requests) you are required to use [labels](https://help.github.com/en/github/managing-your-work-on-github/labeling-issues-and-pull-requests), [milestones](https://help.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-milestones), and [assignees](https://help.github.com/en/github/managing-your-work-on-github/assigning-issues-and-pull-requests-to-other-github-users).
+
+### Project Boards
+
+To help you, your classmates, and your coaches support each other through each module you will be using [GitHub Project Boards](https://help.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards).  
+
+Feeling stuck? Move your issue into the _BLOCKED_ column so everyone knows you have a question!
+
+Want to see just your issues?  Or just the week-1 issues? You can [filter cards in a project board](https://help.github.com/en/github/managing-your-work-on-github/filtering-cards-on-a-project-board) based on their _labels_, _milestones_, _assignees_ and more.
+
+### Pull Requests
+
+Coaches will often give you feedback on your assignments by sending [a Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) directly to your assignment repository.  This is a standard part of the [code review workflow](https://github.com/features/code-review/), after some practice you'll find this is a very practical way to collaborate on a shared code base.
 
 [TOP](#homework-submission)
 
@@ -146,14 +181,6 @@ The weekly workflow for submission and feedback will look something like this:
 
 ---
 
-## Code Review
-
-You will be using GitHub code review workflows to handle all of your homework needs.  [Take a look through this page from Study](https://study.hackyourfuture.be/collaborating/code-review) for some helpful links.
-
-[TOP](#homework-submission)
-
----
-
 ## Assignment Levels
 
 Not all assignments are created equal.  These 3 emoji's will help you figure out how to spend your study time as effectively as possible.
@@ -203,24 +230,6 @@ Exercises will come in 3 general types as well:
 1. __Theory__: Theory exercises will look deeply at the technologies you are using.  All of these exercises will be accompanied by an execution visualization for you to really understand what's happening behind your code. You might find these exercises a bit dry, or might love them!  Either way they're worth every minute you spend studying them.  If you don't take the time to master the theory exercises you will have a hard time debugging your code, applying the technologies correctly, writing & reading tests, or effectively using the developer tools.
 1. __Practice__: These exercises are what you probably think of as standard coding exercises, the types of challenges you find on FreeCodeCamp and other web tutorials.  Practice exercises will be bite-sized coding challenges that ask you apply the technologies you studied in Theory exercises to solve small challenges.
 1. __Integration__: Integration exercises are effectively tiny projects.  In them you will practice integrating the various skills and technologies you've learned so far into realistic (but tiny) projects.  Imagine something like building 5 websites with only one button each.  It's enough to practice the process of building and completing something without getting lost in the size of your project.
-
-### Assessments
-
-> You are required to attend all assessments
-
-Don't panic.  On a few Sunday mornings throughout your time with us there will be a small assessment.  These aren't like standard tests in school where we're measuring how well you can answer our questions so we can give you a grade.  And you won't get kicked out if you're having an off day.  We also take into consideration all of your projects, homeworks, and active participation.  If you don't do so well on an assessment it's not the end of the world.
-
-Our assessments are what's called [formative assessments](https://www.scholastic.com/teachers/articles/teaching-content/what-are-formative-assessments-and-why-should-we-use-them/).  The goal of these assessments is to get an idea of where you each are in your learning.  What have you mastered? What do you still need to work on?  We'll use this information to make sure you each get the help you need, and to adjust the pace of the next module if necessary.
-
-So get a little extra sleep the Saturday before, come in relaxed and rested, we'll hand out the assignment and you'll turn it in before class starts. These assessments will help us to help you, but aren't the only thing that counts.
-
-### Deeper Dives
-
-> Not required, but the fun stuff never is ;)
-
-Each module will have a page called `Deeper Dives` in it's wiki.  In here are a list of tutorials, projects, and extra study materials for you to explore.  Some of the deeper dives will help you prepare for the next module, others will go deeper into concepts covered in the module, and yet others are just fun and cool.  We won't be checking up on these, they're here for your enrichment :mortar_board:.
-
-Enjoy!
 
 [TOP](#homework-submission)
 
